@@ -1,3 +1,1 @@
-# RssStation
-# RssGenerator
 # RssGenerator
